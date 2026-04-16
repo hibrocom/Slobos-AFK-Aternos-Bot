@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HIBROCOMtm.aternos.me","HIBROCOM.aternos.me"
+    "ip": "HIBROCOMtm.aternos.me",
 
-    "port": 32193,46503
-    "version": "",
+    "port": 32193,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -33,7 +33,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to HIBROCOM!",
         "I like to play Minecraft!"
       ]
     },
