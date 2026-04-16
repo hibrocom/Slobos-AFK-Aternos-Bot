@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HIBROCOMtm.aternos.me",
-    "port": 32193,
+    "ip": "HIBROCOMtm.aternos.me","HIBROCOM.aternos.me"
+
+    "port": 32193,46503
     "version": "",
     "try-creative": false
   },
